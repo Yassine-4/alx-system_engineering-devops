@@ -1,1 +1,1 @@
-Shell basics Readme.md
+shell basics readme.md
